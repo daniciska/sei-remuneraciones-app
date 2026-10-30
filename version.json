@@ -1,6 +1,6 @@
 {
-  "version": "2026.10.30.3",
-  "notas": "Pestañas en el orden del mes, Paquete del mes al subir TALANA, horas extra de oficina y trabajadores no informados por su obra en Revisión.",
+  "version": "2026.10.30.4",
+  "notas": "Opción Vacaciones en la planilla de obra (no descuenta días). Trabajadores no informados por su obra en Revisión. Configuración más simple.",
   "archivo": "sei_app.zip",
-  "sha256": "200910c7c466683263f1d66725fc729347057ca26d66bfb085b1d86a7fb0c60a"
+  "sha256": "bae35d9b07db945d5b5ed4908e2c264064663649d945abb54a121a28c75eb0bc"
 }
