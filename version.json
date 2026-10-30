@@ -1,6 +1,6 @@
 {
-  "version": "2026.10.30",
-  "notas": "Primera versión con el botón Actualizar la app y el Paquete del mes.",
+  "version": "2026.10.30.3",
+  "notas": "Pestañas en el orden del mes, Paquete del mes al subir TALANA, horas extra de oficina y trabajadores no informados por su obra en Revisión.",
   "archivo": "sei_app.zip",
-  "sha256": "d461a62fbe5f1d297db28c5ef4b5294bf170537303a377b7c6d699cc18c31833"
+  "sha256": "200910c7c466683263f1d66725fc729347057ca26d66bfb085b1d86a7fb0c60a"
 }
